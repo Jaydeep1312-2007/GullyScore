@@ -2,5 +2,5 @@
   "name": "Gully Score",
   "description": "A modern cricket scoring and tournament match management application for street, academy, and local cricket leagues.",
   "requestFramePermissions": ["camera", "microphone", "geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["API"]
 }
